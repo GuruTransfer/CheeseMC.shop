@@ -28,7 +28,7 @@ const TutorialPage = () => {
 
             <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-8">
               <p className="text-lg font-medium">
-                Để đổi thông tin acc Minecraft mua tại <span className="text-blue-600">PIKAMC.SHOP</span> thành của riêng bạn
+                Để đổi thông tin acc Minecraft mua tại <span className="text-blue-600">CHEESEMC.SHOP</span> thành của riêng bạn
               </p>
             </div>
 
@@ -214,12 +214,12 @@ const TutorialPage = () => {
               <h2 className="text-xl font-bold mb-4 text-blue-600">Hướng dẫn hữu ích khác</h2>
               <ul className="list-disc pl-6 space-y-2">
                 <li>
-                  <a href="https://pikamc.vn/huong-dan-doi-skin-ten" className="text-blue-600 hover:underline">
+                  <a href="https://cheesemc.shop/huong-dan-doi-skin-ten" className="text-blue-600 hover:underline">
                     Hướng dẫn đổi skin và tên trong Minecraft Java & Bedrock
                   </a>
                 </li>
                 <li>
-                  <a href="https://pikamc.vn/huong-dan-tai-game-Minecraft" className="text-blue-600 hover:underline">
+                  <a href="https://cheesemc.shop/huong-dan-tai-game-Minecraft" className="text-blue-600 hover:underline">
                     Hướng dẫn tải game Minecraft Java & Bedrock
                   </a>
                 </li>
