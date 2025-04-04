@@ -209,22 +209,7 @@ const TutorialPage = () => {
               </div>
             </div>
 
-            {/* Additional Guides */}
-            <div className="mt-12 border-t pt-8">
-              <h2 className="text-xl font-bold mb-4 text-blue-600">Hướng dẫn hữu ích khác</h2>
-              <ul className="list-disc pl-6 space-y-2">
-                <li>
-                  <a href="https://cheesemc.shop/huong-dan-doi-skin-ten" className="text-blue-600 hover:underline">
-                    Hướng dẫn đổi skin và tên trong Minecraft Java & Bedrock
-                  </a>
-                </li>
-                <li>
-                  <a href="https://cheesemc.shop/huong-dan-tai-game-Minecraft" className="text-blue-600 hover:underline">
-                    Hướng dẫn tải game Minecraft Java & Bedrock
-                  </a>
-                </li>
-              </ul>
-            </div>
+            
           </div>
         </div>
       </div>
