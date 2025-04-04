@@ -1,0 +1,39 @@
+# CheeseMC.shop - Hướng Dẫn Đổi Thông Tin ACC Minecraft
+
+Đây là trang web tĩnh chứa hướng dẫn cách thay đổi thông tin tài khoản Minecraft. Trang web được thiết kế để chạy trên GitHub Pages.
+
+## Công nghệ sử dụng
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn UI
+
+## Hướng dẫn triển khai lên GitHub Pages
+
+1. Clone repository về máy:
+```
+git clone https://github.com/GuruTransfer/CheeseMC.shop.git
+cd CheeseMC.shop
+```
+
+2. Cài đặt các gói phụ thuộc:
+```
+npm install
+```
+
+3. Xây dựng phiên bản sản phẩm:
+```
+npm run build
+```
+
+4. Cài đặt GitHub Pages:
+   - Vào "Settings" trong GitHub repository
+   - Chọn "Pages" trong sidebar
+   - Trong phần "Source", chọn "GitHub Actions"
+   - GitHub Actions sẽ tự động triển khai trang web
+
+## Thông tin thêm
+
+Trang web này là bản sao của hướng dẫn từ PIKAMC.vn được điều chỉnh cho CheeseMC.shop. Trang web chỉ chứa nội dung hướng dẫn, không bao gồm thông tin liên hệ, tên doanh nghiệp, header, footer hay các thành phần điều hướng của trang gốc.
